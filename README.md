@@ -3,4 +3,6 @@ Python program used for searching jobs in Pune city based on user's skills by gi
 
 This program uses timesjobs.com website for searching jobs.
 
-Jobs found based on user's skills are stored in a text document in the posts folder
+Jobs found based on user's skills are stored in a text document in the posts folder.
+
+Currently code is limited to searching jobs based on one single skill.
